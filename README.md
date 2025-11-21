@@ -18,7 +18,22 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 </p>
 
 ---
+### 🏆 Conquistas & Certificações
 
+[![AWS Cloud Quest - Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/10fdc890-6140-4bbd-912f-134249f0d568/linked_in?t=t5e1bi)
+![AWS Cloud Fundamentals TIDWIT](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-TIDWIT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Cloud Fundamentals SMBs TIDWIT](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-SMBs%20TIDWIT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Introduction to FOCUS](https://img.shields.io/badge/FinOps-Introduction%20to%20FOCUS-5A2C83?style=for-the-badge)
+![Introduction to FinOps](https://img.shields.io/badge/FinOps-Introduction-5A2C83?style=for-the-badge)
+
+![Scrum](https://img.shields.io/badge/Scrum-Fundamentals-2C9AB7?style=for-the-badge)
+![COBIT 5](https://img.shields.io/badge/COBIT-5%20Foundation-025E8C?style=for-the-badge)
+
+![Office 365](https://img.shields.io/badge/Microsoft%20365-Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+---
 ### 🌩️ Cloud 
 <img 
     align="left" 
