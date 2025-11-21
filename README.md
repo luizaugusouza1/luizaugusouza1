@@ -21,13 +21,13 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
 ### 🏆 Conquistas & Certificações
 
 [![AWS Cloud Quest - Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/10fdc890-6140-4bbd-912f-134249f0d568/linked_in?t=t5e1bi)
-![AWS Cloud Fundamentals TIDWIT](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-TIDWIT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Cloud Fundamentals SMBs TIDWIT](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-SMBs%20TIDWIT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![AWS Cloud Fundamentals TIDWIT](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-TIDWIT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://awstreinabrasil.ontidwit.com/#/badge/bd700ed3-cf5f-4f0c-a584-42dc4a3bd248)
+[![AWS Cloud Fundamentals SMBs TIDWIT](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-SMBs%20TIDWIT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://awstreinabrasil.ontidwit.com/#/badge/4de6f310-72e3-43f8-abe6-616ea0ebb2fe)
 
-![Introduction to FOCUS](https://img.shields.io/badge/FinOps-Introduction%20to%20FOCUS-5A2C83?style=for-the-badge)
-![Introduction to FinOps](https://img.shields.io/badge/FinOps-Introduction-5A2C83?style=for-the-badge)
+[![FinOps – Introduction to FOCUS](https://img.shields.io/badge/FinOps-Introduction%20to%20FOCUS-5A2C83?style=for-the-badge)](https://verify.skilljar.com/c/snyeir8amtou)
+[![FinOps – Introduction](https://img.shields.io/badge/FinOps-Introduction-5A2C83?style=for-the-badge)](https://verify.skilljar.com/c/uio8e6b5nxq2)
 
-![Scrum](https://img.shields.io/badge/Scrum-Fundamentals-2C9AB7?style=for-the-badge)
+[![Scrum – Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-2C9AB7?style=for-the-badge&logo=scrumorg&logoColor=white)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1069912)
 ![COBIT 5](https://img.shields.io/badge/COBIT-5%20Foundation-025E8C?style=for-the-badge)
 
 ![Office 365](https://img.shields.io/badge/Microsoft%20365-Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
