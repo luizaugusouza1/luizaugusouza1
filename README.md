@@ -86,6 +86,46 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" 
 />
 <br/>
+### 💻 Virtualização
+<img 
+    align="left" 
+    alt="Hyperv"
+    title="Hyperv" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hyperv/hyperv-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Proxmox" 
+    title="Proxmox"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" 
+/>
+ • VMWare
+<br/>
+### 🧱 Containers
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+ • Docker Compose
+<br/>
+### ☸️ Orquestração
+<img 
+    align="left" 
+    alt="Kubernetes"
+    title="Kubernetes" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
+/>
+<br/>
 ### ⚙️ DevOps / Automação
 <img 
     align="left" 
