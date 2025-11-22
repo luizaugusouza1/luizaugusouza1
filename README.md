@@ -86,14 +86,6 @@ Tenho experiência sólida com monitoramento, segurança e conformidade em ambie
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" 
 />
 <br/>
-### 🔐 Segurança
-
-Firewall corporativo • IDS/IPS • SecOps • EDR • HIDS
-<br/>
-### 📡 Monitoramento
-
-Zabbix • Grafana • Spiceworks • PRTG
-<br/>
 ### ⚙️ DevOps / Automação
 <img 
     align="left" 
@@ -112,10 +104,6 @@ Zabbix • Grafana • Spiceworks • PRTG
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
  • Cloud • n8n • Power Automate
-<br/>
-### 🗂️ ITSM
-
-GLPI • Inventário • CMDB
 <br/>
 ### 🌐 Web
 <img 
@@ -143,10 +131,6 @@ GLPI • Inventário • CMDB
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
 />
  • IIS
-<br/>
-### 💾 Backup
-
-Bacula • Cobian • Iperius
 <br/>
 ### 🧩 Ambiente Corporativo
 
