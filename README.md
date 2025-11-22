@@ -95,16 +95,54 @@ Firewall corporativo • IDS/IPS • SecOps • EDR • HIDS
 Zabbix • Grafana • Spiceworks • PRTG
 <br/>
 ### ⚙️ DevOps / Automação
-
-PowerShell • Bash • Cloud • n8n • Power Automate
+<img 
+    align="left" 
+    alt="PowerShell"
+    title="PowerShell" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bash" 
+    title="Bash"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+ • Cloud • n8n • Power Automate
 <br/>
 ### 🗂️ ITSM
 
 GLPI • Inventário • CMDB
 <br/>
 ### 🌐 Web
-
-WordPress • IIS • Apache
+<img 
+    align="left" 
+    alt="WordPress" 
+    title="WordPress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Apache" 
+    title="Apache"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Nginx" 
+    title="Nginx"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
+/>
+ • IIS
 <br/>
 ### 💾 Backup
 
